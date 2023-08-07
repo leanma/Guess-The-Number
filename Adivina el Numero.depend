@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1691251710 source:c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\juegos\adivina el numero\adivinan.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"AdivinaN.h"
+
+1691251187 c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\juegos\adivina el numero\adivinan.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1691251597 source:c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\juegos\adivina el numero\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	"AdivinaN.h"
+
